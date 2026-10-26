@@ -1,0 +1,20 @@
+# Dataset (download from Kaggle, see README)
+data/*.csv
+data/*.zip
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
